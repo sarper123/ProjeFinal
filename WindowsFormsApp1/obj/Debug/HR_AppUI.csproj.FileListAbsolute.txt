@@ -1,0 +1,86 @@
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\HR_App_BLL.dll
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\HR_AppUI.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDIParent1.resources
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.GenerateResource.cache
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.CopyComplete
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Departman_Kayıt.resources
+C:\Users\itopya\Desktop\ERP_IK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Personel_Bul.resources
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\HR_App_BLL.dll
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\HR_AppUI.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Departman_Kayıt.resources
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Personel_Bul.resources
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.GenerateResource.cache
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.CopyComplete
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HRP_2019.resources
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\ClassLibrary2.dll
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\HR_App_BLL.dll
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\ClassLibrary2.pdb
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\HR_App_BLL.pdb
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\HR_AppUI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Departman_Kayıt.resources
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HRP_2019.resources
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Personel_Bul.resources
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Proje son hali\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.GenerateResource.Cache
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\HR_App_BLL.dll
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\HR_AppUI.csprojAssemblyReference.cache
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Departman_Kayıt.resources
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HRP_2019.resources
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Personel_Bul.resources
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.GenerateResource.cache
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\HR_AppUI.csproj.CopyComplete
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\itopya\Downloads\Proje son hali\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

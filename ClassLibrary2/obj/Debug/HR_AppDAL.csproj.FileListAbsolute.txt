@@ -1,0 +1,33 @@
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\obj\Debug\HR_AppDAL.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\obj\Debug\HR_AppDAL.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\obj\Debug\HR_AppDAL.csproj.CopyComplete
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\ERP_IK\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\obj\Debug\HR_AppDAL.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\obj\Debug\HR_AppDAL.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\obj\Debug\HR_AppDAL.csproj.CopyComplete
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\proje_katmanlı\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\obj\Debug\HR_AppDAL.csprojAssemblyReference.cache
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\obj\Debug\HR_AppDAL.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\obj\Debug\HR_AppDAL.csproj.CopyComplete
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\itopya\Downloads\Proje son hali\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

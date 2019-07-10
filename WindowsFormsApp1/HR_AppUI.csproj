@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD206A75-BF40-4497-94B8-C8E87991B049}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Departman Kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departman Kayıt.Designer.cs">
+      <DependentUpon>Departman Kayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRP 2019.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRP 2019.Designer.cs">
+      <DependentUpon>HRP 2019.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personel Bul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personel Bul.Designer.cs">
+      <DependentUpon>Personel Bul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personel Kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personel Kayıt.Designer.cs">
+      <DependentUpon>Personel Kayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Departman Kayıt.resx">
+      <DependentUpon>Departman Kayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRP 2019.resx">
+      <DependentUpon>HRP 2019.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personel Bul.resx">
+      <DependentUpon>Personel Bul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personel Kayıt.resx">
+      <DependentUpon>Personel Kayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary2\HR_AppDAL.csproj">
+      <Project>{B7D932EE-4D07-4C5E-986A-34864E93964E}</Project>
+      <Name>HR_AppDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HR_App_BLL\HR_App_BLL.csproj">
+      <Project>{2E15E82B-B73A-4FE2-8F6C-62B04E901B39}</Project>
+      <Name>HR_App_BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personelİcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\güncelle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\silme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-2743622_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LinearGradientBrush-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EKLE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GÜNCELLEME.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UPDATEEE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-for-update-28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SİLL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dep-02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81565d1bea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ios-style-blurred-ppt-background-image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-10-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kaynaklar.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

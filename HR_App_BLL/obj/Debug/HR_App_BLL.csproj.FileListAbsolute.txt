@@ -1,0 +1,39 @@
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\HR_App_BLL.dll
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\obj\Debug\HR_App_BLL.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\obj\Debug\HR_App_BLL.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\obj\Debug\HR_App_BLL.csproj.CopyComplete
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\obj\Debug\HR_App_BLL.dll
+C:\Users\itopya\Desktop\ERP_IK\HR_App_BLL\obj\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\HR_App_BLL.dll
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\obj\Debug\HR_App_BLL.csprojAssemblyReference.cache
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\obj\Debug\HR_App_BLL.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\obj\Debug\HR_App_BLL.csproj.CopyComplete
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\obj\Debug\HR_App_BLL.dll
+C:\Users\itopya\Desktop\proje_katmanlı\HR_App_BLL\obj\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\HR_App_BLL.dll
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\HR_App_BLL.pdb
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\ClassLibrary2.dll
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\EntityFramework.dll
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\ClassLibrary2.pdb
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\EntityFramework.xml
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\obj\Debug\HR_App_BLL.csprojAssemblyReference.cache
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\obj\Debug\HR_App_BLL.csproj.CoreCompileInputs.cache
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\obj\Debug\HR_App_BLL.csproj.CopyComplete
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\obj\Debug\HR_App_BLL.dll
+C:\Users\itopya\Downloads\Proje son hali\HR_App_BLL\obj\Debug\HR_App_BLL.pdb
